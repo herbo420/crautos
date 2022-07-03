@@ -1,3 +1,7 @@
 .vehica-features {
     display: none !important;
 }
+
+div#vehica-simple-container-1 {
+    display: none;
+}
